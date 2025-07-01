@@ -46,8 +46,8 @@ Trabajo constantemente en proyectos personales y académicos que resuelven neces
 
 ### 📫 Contacto
 
-- 📧 Correo: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 📧 Correo: [Brandoncj18@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/brandon-chacón-jiménez-411471242)
 - 📲 Telegram: [@Chaconjb](https://t.me/Chaconjb)
 
 ---
