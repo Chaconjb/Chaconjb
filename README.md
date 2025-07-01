@@ -1,25 +1,55 @@
-# 👋 ¡Hola! Soy Brandon 👨‍💻
+<h1 align="center">Hola, soy Brandon Jesús 👋</h1>
 
-🎯 Desarrollador apasionado por la tecnología y la automatización con IA  
-💼 Actualmente trabajando en proyectos de Spring Boot, Docker y ciberseguridad  
-🎓 Estudiante | Aprendiendo día a día  
-🌍 Desde Costa Rica
+<p align="center">
+  <strong>Desarrollador de software con enfoque en Java, Spring Boot y proyectos prácticos.</strong><br>
+  🧠 Aprendiendo constantemente · 🛠️ Construyendo soluciones útiles · 🌍 Desde Costa Rica
+</p>
 
-## 🔧 Tecnologías y herramientas
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+### 👨‍💻 Sobre mí
 
-## 📈 GitHub Stats
+Soy un desarrollador comprometido con la creación de aplicaciones y todo tipo de proyectos robustos, eficientes y bien estructurados. Me enfoco en el desarrollo con Java y Spring Boot pero igaul maneja conocimeinto en mas lenguajes y herramientas, acompañado de bases de datos relacionales como MySQL. Además, tengo conocimiento en , redes , ciberseguridad y contenedores con Docker como parte de mi crecimiento profesional.
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonJesus&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonJesus&layout=compact&theme=radical)
+Trabajo constantemente en proyectos personales y académicos que resuelven necesidades reales, desde sistemas de gestión hasta soluciones automatizadas.
 
-## 📫 Contáctame
+---
 
-- ✉️ [brandon@email.com](mailto:brandon@email.com)
-- 💬 Telegram: @BrandonJesusCR
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+### 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** Java, SQL, HTML, CSS, JavaScript
+- **Frameworks:** Spring Boot, Thymeleaf, Bootstrap
+- **Bases de Datos:** MySQL, H2
+- **Herramientas:** Docker, Git, Postman, NetBeans, IntelliJ IDEA
+- **Otros:** Firebase Storage, GitHub Actions, Figma, Penpot,  Cisco, Ciberseguridad 
+
+---
+
+### 📌 Proyectos Relevantes
+
+- `Gestor de Citas` – Aplicación para administrar citas (barbería, clínica, taller).
+- `TechShop` – Plataforma de tienda virtual con categorías, usuarios y facturación.
+- `Laboratorio de Seguridad` – Entorno Dockerizado para practicar ciberseguridad y análisis de vulnerabilidades.
+
+> 🔗 Mira más en [github.com/Chaconjb](https://github.com/Chaconjb?tab=repositories)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaconjb&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaconjb&layout=compact&theme=default" width="48%" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- 📧 Correo: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 📲 Telegram: [@Chaconjb](https://t.me/Chaconjb)
+
+---
+
+<sub>🚀 Este perfil está en evolución constante. Siempre hay algo nuevo por aprender y construir.</sub>
