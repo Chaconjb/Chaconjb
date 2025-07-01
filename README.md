@@ -27,7 +27,7 @@ Trabajo constantemente en proyectos personales y académicos que resuelven neces
 
 ### 📌 Proyectos Relevantes
 
-- `Gestor de Citas` – Aplicación para administrar citas (barbería, clínica, taller).
+- `Gestor de una fundacion para cuidado de perritos` – Aplicación para administrar donaciones, citas, registros 
 - `TechShop` – Plataforma de tienda virtual con categorías, usuarios y facturación.
 - `Laboratorio de Seguridad` – Entorno Dockerizado para practicar ciberseguridad y análisis de vulnerabilidades.
 
@@ -46,9 +46,8 @@ Trabajo constantemente en proyectos personales y académicos que resuelven neces
 
 ### 📫 Contacto
 
-- 📧 Correo: [Brandoncj18@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/brandon-chacón-jiménez-411471242)
-- 📲 Telegram: [@Chaconjb](https://t.me/Chaconjb)
+- 📧 Correo: Brandoncj18@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/brandon-chacón-jiménez-411471242
 
 ---
 
