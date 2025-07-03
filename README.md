@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Brandon Jesús 👋</h1>
 
 <p align="center">
-  <strong>Desarrollador de software con enfoque en Java, Spring Boot y proyectos prácticos.</strong><br>
+  <strong>Desarrollador de software con experiencia en proyectos prácticos.</strong><br>
   🧠 Aprendiendo constantemente · 🛠️ Construyendo soluciones útiles · 🌍 Desde Costa Rica
 </p>
 
@@ -9,8 +9,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un desarrollador comprometido con la creación de aplicaciones y todo tipo de proyectos robustos, eficientes y bien estructurados. Me enfoco en el desarrollo con Java y Spring Boot pero igaul maneja conocimeinto en mas lenguajes y herramientas, acompañado de bases de datos relacionales como MySQL. Además, tengo conocimiento en , redes , ciberseguridad y contenedores con Docker como parte de mi crecimiento profesional.
-
+Soy un desarrollador comprometido con la creación de aplicaciones y todo tipo de proyectos robustos, eficientes y bien estructurados. Me enfoco en el desarrollo web, manejo conocimeinto en varios lenguajes de programacion y herramientas , acompañado de bases de datos relacionales como MySQL. Además, tengo conocimiento en ciberseguridad y Cisco packet tracer , AWS y contenedores con Docker como parte de mi crecimiento profesional.
 Trabajo constantemente en proyectos personales y académicos que resuelven necesidades reales, desde sistemas de gestión hasta soluciones automatizadas.
 
 ---
